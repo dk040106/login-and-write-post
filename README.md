@@ -2,4 +2,4 @@
 
 ### Dotnet Assignment
 
-npm run dev && open localhost:5000
+npm run dev && open http://localhost:5000
